@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "HistoryOverride", "version": "0.2", "description": "Попытка создания браузерного расширения для управления историей через скрипты (не записывать историю с определенного сайта и подобное)",
+  "permissions": ["history", "storage", "webNavigation"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "hello_extensions.png"
+  }
+}
