@@ -1,3 +1,3 @@
-плагин который не дает сейвить историю посещения определённых сайтов <br>
+Браузерное расширение, позволяющее не записывать историю с выбранных сайтов <br>
 Preview:<br>
-![image](https://github.com/CouZ1337/HistoryOverride-plugin/assets/97269548/8db867af-9e79-4969-bc48-fe7f2c16b115)
+<img width="330" height="221" alt="vivaldi_6NuJpvI4IA" src="https://github.com/user-attachments/assets/b9fcbc60-b6d2-45ea-8b4c-81d58b021d48" />
